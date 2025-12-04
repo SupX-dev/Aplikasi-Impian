@@ -6,7 +6,7 @@ feat: tambah struktur folder aplikasi impian
 # Manajemen Konfigurasi dengan Git - [Kurnia Lintang H]
 NIM: [240104040155]
 Kelas: [24A]
-
+Mata kuliah : [RPL]
 ## Tentang Repository
 Repository untuk belajar manajemen konfigurasi, khususnya version control dengan Git dan GitHub.
 
